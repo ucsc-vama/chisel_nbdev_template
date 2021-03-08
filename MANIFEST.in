@@ -2,4 +2,5 @@ include settings.ini
 include LICENSE
 include CONTRIBUTING.md
 include README.md
+includes nbdev/templates/*tpl
 recursive-exclude * __pycache__
