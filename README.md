@@ -32,7 +32,7 @@ SCALA_VERSION=2.12.10 ALMOND_VERSION=0.9.1
  
 ### Start JupyterLab
 - Making sure you have activated your virtualenv then run in terminal: ```jupyter lab```
-- Modify `settings.ini` following instructions [here](https://nbdev.fast.ai/tutorial.html#Set-up-Repo)
+- Modify `settings.ini` following instructions [here](https://nbdev.fast.ai/tutorial.html#Set-up-Repo) then run `chisel_nbdev_build_lib && chisel_nbdev_clean_nbs && chisel_nbdev_build_docs`. 
 
 ## Troubleshooting Tips
 
