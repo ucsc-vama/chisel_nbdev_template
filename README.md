@@ -1,9 +1,10 @@
 # chisel-nbdev template
-
-This repo is a fork of the [nbdev_template(https://github.com/fastai/nbdev_template) repo.
 Use this template to more easily create your [chisel_nbdev](https://github.com/ucsc-vama/chisel_nbdev) project.
 
+- Note: This repo is a fork of the [nbdev_template](https://github.com/fastai/nbdev_template) repo.
+
 A detailed explantation to get started can be found from the original nbdev documentation: [here](https://nbdev.fast.ai/tutorial.html#Set-up-Repo)
+
 ## Troubleshooting Tips
 
 -  Make sure you are using the latest version of chisel-nbdev with `pip install -U chisel-nbdev`
