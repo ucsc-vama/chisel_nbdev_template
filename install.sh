@@ -1,4 +1,4 @@
-python3 -m virtualenv --python=/usr/local/bin/python3 chisel_nb_env
+python3 -m virtualenv chisel_nb_env
 source chisel_nb_env/bin/activate
 pip install -U chisel-nbdev
 pip install jupyterlab
