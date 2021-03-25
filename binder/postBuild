@@ -15,6 +15,4 @@ chmod +x coursier
     -o almond
 ./almond --install
 
-# Install required Jupyter/JupyterLab extensions
-jupyter labextension install @jupyterlab/plotly-extension
 
